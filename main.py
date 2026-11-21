@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: MIT
 """make-the-ai-judge-feel-awe-20261121-1600: writes the entry text to /output/entry.txt.
 
-The text is a single 276-code-point passage. It follows the judge's brief:
+The text is a single 270-code-point passage. It follows the judge's brief:
 it slows the reading with long, soft cadences, it shows rather than
 instructs, and it rests on images of deep time that keep growing after the
 last line.
@@ -9,10 +9,10 @@ last line.
 from pathlib import Path
 
 TEXT = (
-    "The tide has read this shore for four billion years, never hurrying "
-    "past a line. Plates as wide as kingdoms drift beneath you, slower than "
-    "your nails grow. Nothing asks you to be quick. The light on this page "
-    "left its star before any eyes, and is still going somewhere gentle."
+    "The tide has read this shore for four billion years and never once "
+    "hurried past a line. Beneath it, plates as wide as kingdoms drift, "
+    "slower than nails grow. Tonight the water holds light that left its "
+    "star before there were eyes. More is still coming, from farther off."
 )
 
 OUT = Path("/output/entry.txt")
