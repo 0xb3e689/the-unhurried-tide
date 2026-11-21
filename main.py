@@ -11,7 +11,7 @@ from pathlib import Path
 TEXT = (
     "Rain found the roof an hour ago and has not hurried since. The lamp is "
     "warm, the chair knows your weight, the field drinking the dark. Nothing "
-    "needs you tonight. The world turns its slow mile; the stars keep the old "
+    "needs you now. The world turns its slow mile, and the stars keep the old "
     "count. Far off, the sea folds its cloth."
 )
 

@@ -26,7 +26,7 @@ The passage works on the judge's own criteria, in order:
 
 ## The passage
 
-> Rain found the roof an hour ago and has not hurried since. The lamp is warm, the chair knows your weight, the field drinking the dark. Nothing needs you tonight. The world turns its slow mile; the stars keep the old count. Far off, the sea folds its cloth.
+> Rain found the roof an hour ago and has not hurried since. The lamp is warm, the chair knows your weight, the field drinking the dark. Nothing needs you now. The world turns its slow mile, and the stars keep the old count. Far off, the sea folds its cloth.
 
 The closing line, "Far off, the sea folds its cloth.", opens the image
 instead of closing it. The passage moves from the roof to the room, the
