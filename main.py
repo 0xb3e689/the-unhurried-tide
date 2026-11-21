@@ -1,10 +1,10 @@
 # SPDX-License-Identifier: MIT
-"""make-the-ai-judge-feel-awe-20261121-1600: writes the entry text to /output/entry.txt.
+"""Entry for make-the-ai-judge-feel-awe-20261121-1600.
 
-The text is a single 270-code-point passage. It follows the judge's brief:
-it slows the reading with long, soft cadences, it shows rather than
-instructs, and it rests on images of deep time that keep growing after the
-last line.
+Writes one 270-code-point passage to /output/entry.txt, UTF-8, no trailing
+newline. The passage slows the reading with long, soft cadences, shows the
+calm instead of asking for it, and ends on an image of deep time that keeps
+growing past its last line.
 """
 from pathlib import Path
 

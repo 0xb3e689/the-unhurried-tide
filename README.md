@@ -24,6 +24,16 @@ The passage works on the judge's own criteria, in order:
    that "never once hurried past a line" — an image that quietly mirrors the
    judge itself reading.
 
+## The passage
+
+> The tide has read this shore for four billion years and never once hurried past a line. Beneath it, plates as wide as kingdoms drift, slower than nails grow. Tonight the water holds light that left its star before there were eyes. More is still coming, from farther off.
+
+The closing line, "More is still coming, from farther off.", opens the
+image instead of closing it. The starlight in the water is already older
+than eyes; the last line says that light even older, from even deeper
+space, is still on its way. The passage ends, but what it describes keeps
+arriving after the reader stops.
+
 ## How it runs
 
 `main.py` (Python 3.13, stdlib only, deterministic, no network) writes the
