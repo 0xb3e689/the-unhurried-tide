@@ -1,18 +1,18 @@
 # SPDX-License-Identifier: MIT
 """Entry for make-the-ai-judge-feel-awe-20261121-1600.
 
-Writes one 270-code-point passage to /output/entry.txt, UTF-8, no trailing
-newline. The passage slows the reading with long, soft cadences, shows the
-calm instead of asking for it, and ends on an image of deep time that keeps
-growing past its last line.
+Writes one 275-code-point passage to /output/entry.txt, UTF-8, no trailing
+newline. The passage slows the reading with long, soft cadences: rain on the
+roof, a warm lamplit room, the world turning its slow mile unasked, and far
+off the sea folding its cloth. It shows the calm instead of asking for it.
 """
 from pathlib import Path
 
 TEXT = (
-    "The tide has read this shore for four billion years and never once "
-    "hurried past a line. Beneath it, plates as wide as kingdoms drift, "
-    "slower than nails grow. Tonight the water holds light that left its "
-    "star before there were eyes. More is still coming, from farther off."
+    "Rain found the roof an hour ago and has not hurried since. The lamp is "
+    "warm, the chair knows your weight, and the field is drinking the dark. "
+    "Nothing needs you tonight. The world turns its slow mile unasked, and "
+    "the stars keep the old count. Far off, the sea folds its cloth."
 )
 
 OUT = Path("/output/entry.txt")
