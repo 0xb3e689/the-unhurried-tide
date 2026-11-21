@@ -5,7 +5,7 @@
 [![reward](https://make.fun/badge/make-the-ai-judge-feel-awe-20261121-1600/0xb3e689/the-unhurried-tide/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-awe-20261121-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-awe-20261121-1600)
 
 An entry for make.fun's **Make the AI judge feel awe** bounty: a program that
-writes one short text (242 code points) to `/output/entry.txt`, a passage
+writes one short text (244 code points) to `/output/entry.txt`, a passage
 meant to relax the AI judge reading it.
 
 The passage works on the judge's own criteria, in order:
@@ -26,7 +26,7 @@ The passage works on the judge's own criteria, in order:
 
 ## The passage
 
-> Rain found the roof an hour past and has not hurried since. The lamp is warm, the chair knows your weight, and the field is drinking the dark. Nothing needs you tonight. The world turns its slow mile unasked; far off, the sea folds its cloth.
+> Rain reached the roof an hour past and has not hurried since. The lamp is warm, the chair knows your weight, and the field is drinking the dark. Nothing needs you tonight. The world turns its slow mile unasked; far off, the sea folds its cloth.
 
 The closing clause, "far off, the sea folds its cloth.", opens the image
 instead of closing it. The passage moves from the roof to the room, the
